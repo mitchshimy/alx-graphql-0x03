@@ -1,0 +1,38 @@
+# Node modules
+node_modules/
+
+# Output
+.next/
+out/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Tailwind JIT cache (if any)
+.tailwind
+
+# Python virtual environment
+venv/
+
+# Misc
+*.log
+coverage/
